@@ -7,7 +7,7 @@ stage ('cmd to run')
 {
 steps
 {
-sh 'touch sumanth.txt'
+sh 'touch TTT.txt'
 }
 }
 }
